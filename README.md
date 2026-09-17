@@ -7,8 +7,6 @@ A lightweight, practical Governance, Risk, and Compliance (GRC) toolkit designed
 * *Vendor Risk Assessment Template:* Evaluate third-party and fourth-party vendor security posture.
 
 ## 🚀 Get the Full GRC Launchpad Bundle
-Want the complete, automated enterprise risk register, vendor assessment engine, and HIPAA readiness tracker? 
+Want the complete, automated enterprise risk register, vendor assessment engine, and HIPAA readiness tracker?
 
-👉 **[Get the full GRC launchpad bundle here](https://payhip.com/b/60r5c)**
-
-Created by Ugwu Pascal Oguejiofor
+👉 **[Get the full GRC launchpad bundle here](https://payhip.com/UgwuPascal)**
